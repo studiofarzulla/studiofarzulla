@@ -1,4 +1,4 @@
-# Murad Farzulla
+# Murad Farzulla's Studio
 
 **Independent Researcher** | [Dissensus AI](https://dissensus.ai) | [ASCRI](https://systems.ac)
 
