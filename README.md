@@ -1,26 +1,40 @@
+<div align="center">
+
 # Murad Farzulla
 
-**Independent Researcher** | [Dissensus AI](https://dissensus.ai) | [ASCRI](https://systems.ac)
+**Independent Researcher** · [Dissensus AI](https://dissensus.ai) · [ASCRI](https://systems.ac)
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7164--8704-green?logo=orcid)](https://orcid.org/0009-0002-7164-8704)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.com/citations?user=bmplqfwAAAAJ)
-[![SSRN](https://img.shields.io/badge/SSRN-Profile-154881)](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7657588)
-[![arXiv](https://img.shields.io/badge/arXiv-Profile-B31B1B.svg)](http://arxiv.org/a/farzulla_m_1)
+Stability, alignment, and friction dynamics in complex systems where competing interests generate structural conflict.
 
-Investigating stability, alignment, and friction dynamics in complex systems where competing interests generate structural conflict. Each paper is a proof-of-concept for a different application domain: political governance, financial markets, developmental psychology, AI alignment.
-
-MSc Finance Analytics (King's College London) | BSc Accounting & Finance (SOAS, First Class Honours)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7164--8704-green?logo=orcid&style=flat-square)](https://orcid.org/0009-0002-7164-8704)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=google-scholar&style=flat-square)](https://scholar.google.com/citations?user=bmplqfwAAAAJ)
+[![SSRN](https://img.shields.io/badge/SSRN-Profile-154881?style=flat-square)](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7657588)
+[![arXiv](https://img.shields.io/badge/arXiv-Profile-B31B1B?style=flat-square)](http://arxiv.org/a/farzulla_m_1)
 
 ---
 
-## Research Programme
+[💬 Discussions](https://github.com/orgs/studiofarzulla/discussions) · [📋 Projects](https://github.com/orgs/studiofarzulla/projects) · [📖 Wiki](https://github.com/studiofarzulla/studiofarzulla/wiki)
+
+</div>
+
+---
+
+## 👤 About
+
+Each paper is a proof-of-concept for a different application domain — political governance, financial markets, developmental psychology, AI alignment. The unifying thread is **consent mechanics**: how friction, stakes, and voice interact when agents with incompatible objectives must coexist.
+
+🎓 MSc Finance Analytics (King's College London) · BSc Accounting & Finance (SOAS, First Class Honours)
+
+---
+
+## 🔬 Research Programme
 
 ### Consent Mechanics & Political Economy
 
 | Paper | ID | Status | Links |
 |-------|----|--------|-------|
 | Axiom of Consent: Friction Dynamics in Multi-Agent Coordination | DAI-2601 | arXiv | [arXiv:2601.06692](https://arxiv.org/abs/2601.06692) |
-| Consensual Sovereignty: Stakes, Voice, and Friction in Adversarial Governance | DAI-2501 | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.17684676) / [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5918222) |
+| Consensual Sovereignty: Stakes, Voice, and Friction in Adversarial Governance | DAI-2501 | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.17684676) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5918222) |
 | From Consent to Consideration: Political Standing for Artificial Agents | DAI-2504 | Under Review | [Zenodo](https://doi.org/10.5281/zenodo.17957659) |
 | Stakes Without Voice: Consent Failure and Structural Exclusion | DAI-2602 | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.17918431) |
 
@@ -55,7 +69,7 @@ MSc Finance Analytics (King's College London) | BSc Accounting & Finance (SOAS, 
 | Training Data and the Maladaptive Mind *(developmental psych + ML)* | DP-2501 | Under Review | [Research Square](https://doi.org/10.21203/rs.3.rs-8634152/v1) |
 | Autonomous Red Team *(w/ Maksakov)* | DAI-2513 | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.17614726) |
 | Genre Mimicry: Abliterated LLMs and Safety Behaviors | DP-2503 | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.17957694) |
-| Semantic-First Vision: Category-Driven Visual Processing | DP-2505 | In Progress | -- |
+| Semantic-First Vision: Category-Driven Visual Processing | DP-2505 | In Progress | — |
 | Temporal Bitmap Interpretation: Quantum Oscillatory Sampling | DP-2504 | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.18013281) |
 
 ### Formal Methods
@@ -66,7 +80,7 @@ MSc Finance Analytics (King's College London) | BSc Accounting & Finance (SOAS, 
 
 ---
 
-## Software
+## 🛠️ Software & Tools
 
 | Project | Description |
 |---------|-------------|
@@ -74,7 +88,21 @@ MSc Finance Analytics (King's College London) | BSc Accounting & Finance (SOAS, 
 | [GJR-GARCH-X](https://github.com/studiofarzulla/gjr-garch-x) | GJR-GARCH models with exogenous variance regressors |
 | [Consent-ROM Empirical](https://github.com/studiofarzulla/consent-rom-empirical) | Empirical validation of ROM consent-friction dynamics |
 | [Friction-MARL](https://github.com/studiofarzulla/friction-marl) | Multi-agent RL with friction dynamics |
+| [Adversarial Security Agents](https://github.com/studiofarzulla/adversarial-security-agents) | Autonomous red-team multi-agent security testing |
+| [Lean Formalizations](https://github.com/studiofarzulla/lean-formalizations) | Machine-checked proofs in Lean 4 + Mathlib |
 
 ---
 
-<sub>24 papers | 7 under review or with editor | 4 on arXiv | [dissensus.ai](https://dissensus.ai) | [systems.ac](https://systems.ac)</sub>
+## 💬 Community & Resources
+
+| | |
+|---|---|
+| 💬 **[Discussions](https://github.com/orgs/studiofarzulla/discussions)** | Ask questions, share ideas, or discuss research directions |
+| 📋 **[Projects](https://github.com/orgs/studiofarzulla/projects)** | Track active research streams and development roadmaps |
+| 📖 **[Wiki](https://github.com/studiofarzulla/studiofarzulla/wiki)** | Background material, reading lists, and methodology notes |
+
+---
+
+<div align="center">
+<sub>24 papers · 7 under review or with editor · 4 on arXiv · <a href="https://dissensus.ai">dissensus.ai</a> · <a href="https://systems.ac">systems.ac</a></sub>
+</div>
