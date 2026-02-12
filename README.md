@@ -69,7 +69,7 @@ Each paper is a proof-of-concept for a different application domain — politica
 | Training Data and the Maladaptive Mind *(developmental psych + ML)* | DP-2501 | Under Review | [Research Square](https://doi.org/10.21203/rs.3.rs-8634152/v1) |
 | Autonomous Red Team *(w/ Maksakov)* | DAI-2513 | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.17614726) |
 | Genre Mimicry: Abliterated LLMs and Safety Behaviors | DP-2503 | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.17957694) |
-| Semantic-First Vision: Category-Driven Visual Processing | DP-2505 | In Progress | — |
+| Semantic-First Vision: Category-Driven Visual Processing | DP-2505 | In Progress | TBA |
 | Temporal Bitmap Interpretation: Quantum Oscillatory Sampling | DP-2504 | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.18013281) |
 
 ### Formal Methods
@@ -95,8 +95,8 @@ Each paper is a proof-of-concept for a different application domain — politica
 
 ## 💬 Community & Resources
 
-| | |
-|---|---|
+| Resource | Description |
+|----------|-------------|
 | 💬 **[Discussions](https://github.com/orgs/studiofarzulla/discussions)** | Ask questions, share ideas, or discuss research directions |
 | 📋 **[Projects](https://github.com/orgs/studiofarzulla/projects)** | Track active research streams and development roadmaps |
 | 📖 **[Wiki](https://github.com/studiofarzulla/studiofarzulla/wiki)** | Background material, reading lists, and methodology notes |
