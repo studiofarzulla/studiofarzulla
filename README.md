@@ -4,7 +4,8 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7164--8704-green?logo=orcid)](https://orcid.org/0009-0002-7164-8704)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.com/citations?user=bmplqfwAAAAJ)
-[![SSRN](https://img.shields.io/badge/SSRN-Author_Page-blue)](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7657588)
+[![SSRN](https://img.shields.io/badge/SSRN-Profile-154881)](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7657588)
+[![arXiv](https://img.shields.io/badge/arXiv-Profile-B31B1B.svg)](http://arxiv.org/a/farzulla_m_1)
 
 Investigating stability, alignment, and friction dynamics in complex systems where competing interests generate structural conflict. Each paper is a proof-of-concept for a different application domain: political governance, financial markets, developmental psychology, AI alignment.
 
