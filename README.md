@@ -62,7 +62,7 @@ MSc Finance Analytics (King's College London) | BSc Accounting & Finance (SOAS, 
 
 | Project | Links |
 |---------|-------|
-| Lean 4 Formalizations (56 theorems, 4 papers) | [Repository](https://github.com/studiofarzulla/lean-formalizations) |
+| Lean 4 Formalizations (50 files, 14 papers, Mathlib v4.27.0) | [Repository](https://github.com/studiofarzulla/lean-formalizations) |
 
 ---
 
@@ -77,4 +77,4 @@ MSc Finance Analytics (King's College London) | BSc Accounting & Finance (SOAS, 
 
 ---
 
-<sub>24 papers | 7 under review or with editor | 4 on arXiv | [dissensus.ai](https://dissensus.ai) | [systems.ac](https://systems.ac)</sub>
+<sub>25+ papers | 7 under review or with editor | 4 on arXiv | [dissensus.ai](https://dissensus.ai) | [systems.ac](https://systems.ac)</sub>
