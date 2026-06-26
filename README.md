@@ -1,80 +1,58 @@
-# Murad Farzulla's Studio
+# Murad Farzulla
 
-**Independent Researcher** | [Dissensus AI](https://dissensus.ai) | [ASCRI](https://systems.ac)
+**Independent Researcher** · [Dissensus](https://dissensus.ai) · [ASCRI](https://systems.ac)
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7164--8704-green?logo=orcid)](https://orcid.org/0009-0002-7164-8704)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.com/citations?user=bmplqfwAAAAJ)
-[![SSRN](https://img.shields.io/badge/SSRN-Profile-154881)](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7657588)
-[![arXiv](https://img.shields.io/badge/arXiv-Profile-B31B1B.svg)](http://arxiv.org/a/farzulla_m_1)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7164--8704-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-7164-8704)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=bmplqfwAAAAJ)
+[![arXiv](https://img.shields.io/badge/arXiv-farzulla__m__1-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/a/farzulla_m_1)
 
-Investigating stability, alignment, and friction dynamics in complex systems where competing interests generate structural conflict. Each paper is a proof-of-concept for a different application domain: political governance, financial markets, developmental psychology, AI alignment.
+Adversarial systems research — stability, alignment, and friction dynamics in complex systems where competing interests generate structural conflict. Each paper is a proof-of-concept for a different application domain: financial markets, political governance, AI alignment, and human development.
 
-MSc Finance Analytics (King's College London) | BSc Accounting & Finance (SOAS, First Class Honours)
+**MSc Finance Analytics**, King's College London · **BSc Accounting & Finance** (First Class), SOAS University of London
 
----
-
-## Research Programme
-
-### Consent Mechanics & Political Economy
-
-| Paper | ID | Status | Links |
-|-------|----|--------|-------|
-| Axiom of Consent: Friction Dynamics in Multi-Agent Coordination | DAI-2601 | arXiv | [arXiv:2601.06692](https://arxiv.org/abs/2601.06692) |
-| Consensual Sovereignty: Stakes, Voice, and Friction in Adversarial Governance | DAI-2501 | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.17684676) / [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5918222) |
-| From Consent to Consideration: Political Standing for Artificial Agents | DAI-2504 | Under Review | [Zenodo](https://doi.org/10.5281/zenodo.17957659) |
-| Stakes Without Voice: Consent Failure and Structural Exclusion | DAI-2602 | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.17918431) |
-
-### Financial Markets & Regulation
-
-| Paper | ID | Status | Links |
-|-------|----|--------|-------|
-| ROM: Scale-Relative Formalism for Persistence-Conditioned Dynamics | DAI-2503 | arXiv | [arXiv:2601.06363](https://arxiv.org/abs/2601.06363) |
-| Infrastructure vs Regulatory Shocks: Cryptocurrency Volatility | DAI-2506 | Under Review | [Research Square](https://doi.org/10.21203/rs.3.rs-8323026/v1) |
-| ASRI: Aggregated Systemic Risk Index *(w/ Maksakov)* | DAI-2509 | arXiv | [arXiv:2602.03874](https://arxiv.org/abs/2602.03874) |
-| Whitepaper Claims vs Market Behavior: Cryptocurrency Factor Analysis | DAI-2508 | With Editor | [arXiv:2601.20336](https://arxiv.org/abs/2601.20336) |
-| Sentiment Without Structure: Order Flow vs Textual Sentiment | DAI-2507 | With Editor | [Zenodo](https://doi.org/10.5281/zenodo.18099609) |
-| The Extremity Premium: Sentiment Regimes and Adverse Selection | DAI-2510 | With Editor | [Zenodo](https://doi.org/10.5281/zenodo.17989810) |
-| Alpha Asymmetry in FX Markets: A Null Result | DAI-2605 | SSRN | [SSRN:6147567](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6147567) |
-| Legitimate Extraction: Sophisticated Laundering Hides in Plain Sight | DAI-2604 | SSRN | [SSRN:6145046](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6145046) |
-| Asymptotic Protection: Derivatives, Hedging, and Systemic Risk | DAI-2502 | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.17620448) |
-| CBDC Privacy Architecture *(w/ Maksakov)* | DAI-2511 | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.17917938) |
-
-### Philosophy of Mind & AI Alignment
-
-| Paper | ID | Status | Links |
-|-------|----|--------|-------|
-| Relational Functionalism: AI Friendship and Social Standing | DP-2502 | Under Review | [Zenodo](https://doi.org/10.5281/zenodo.17626860) |
-| Consciousness Monograph: Dissolving Qualia via Occam's Razor | DAI-2512 | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.17917970) |
-| Identity Thesis: Relational Identity in Multi-Agent Systems | DAI-2603 | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.18186445) |
-| Consciousness as Nominalization Error | DP-2602 | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.18013205) |
-
-### Computational Cognition
-
-| Paper | ID | Status | Links |
-|-------|----|--------|-------|
-| Training Data and the Maladaptive Mind *(developmental psych + ML)* | DP-2501 | Under Review | [Research Square](https://doi.org/10.21203/rs.3.rs-8634152/v1) |
-| Autonomous Red Team *(w/ Maksakov)* | DAI-2513 | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.17614726) |
-| Genre Mimicry: Abliterated LLMs and Safety Behaviors | DP-2503 | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.17957694) |
-| Semantic-First Vision: Category-Driven Visual Processing | DP-2505 | In Progress | -- |
-| Temporal Bitmap Interpretation: Quantum Oscillatory Sampling | DP-2504 | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.18013281) |
-
-### Formal Methods
-
-| Project | Links |
-|---------|-------|
-| Lean 4 Formalizations (50 files, 14 papers, Mathlib v4.27.0) | [Repository](https://github.com/studiofarzulla/lean-formalizations) |
+📄 Full paper list with PDFs → **[dissensus.ai/research](https://dissensus.ai/research)**
 
 ---
 
-## Software
+### Computational Finance & Market Microstructure
 
-| Project | Description |
-|---------|-------------|
-| [ASRI](https://github.com/studiofarzulla/asri) | Real-time systemic risk monitoring for crypto markets |
-| [GJR-GARCH-X](https://github.com/studiofarzulla/gjr-garch-x) | GJR-GARCH models with exogenous variance regressors |
-| [Consent-ROM Empirical](https://github.com/studiofarzulla/consent-rom-empirical) | Empirical validation of ROM consent-friction dynamics |
-| [Friction-MARL](https://github.com/studiofarzulla/friction-marl) | Multi-agent RL with friction dynamics |
+| Paper | Status | Link |
+|-------|--------|------|
+| Do Cryptocurrency Markets Differentiate Infrastructure from Regulatory Shocks? A Multi-Moment Event Study with Dependence-Robust Inference | **Under Review** · Digital Finance | [paper](https://dissensus.ai/papers/market-reaction-asymmetry) |
+| The Extremity Premium: Sentiment Regimes and Adverse Selection in Cryptocurrency Markets | **Under Review** · Computational Economics | [arXiv:2602.07018](https://arxiv.org/abs/2602.07018) |
+| ASRI: An Aggregated Systemic Risk Index *(w/ A. Maksakov)* | Preprint | [arXiv:2602.03874](https://arxiv.org/abs/2602.03874) |
+| Do Whitepaper Claims Predict Market Behavior? Evidence from Cryptocurrency Factor Analysis | Preprint | [arXiv:2601.20336](https://arxiv.org/abs/2601.20336) |
+| Alpha Asymmetry in Foreign Exchange Markets | Preprint | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6147567) |
+| Legitimate Extraction: Sophisticated Laundering Hides in Plain Sight | Preprint | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6145046) |
+| CBDC Privacy Architecture *(w/ A. Maksakov)* | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.17917938) |
+
+### AI Alignment & Philosophy of Mind
+
+| Paper | Status | Link |
+|-------|--------|------|
+| From Consent to Consideration | **Under Review** · AI and Ethics | [Zenodo](https://doi.org/10.5281/zenodo.17957658) |
+| Relational Functionalism: A Functional Account of Substrate-Independent Friendship | **Under Review** · Ethics and Information Technology | [Zenodo](https://doi.org/10.5281/zenodo.17626859) |
+| Stakes Without Voice: A Governance Framework for AI Standing | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.18195278) |
+| Dissolving Qualia via Occam's Razor (consciousness monograph) | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.17917969) |
+| Identity is Irreducibly Relational | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.18186444) |
+| Context-Dependent Affordance Computation in Vision-Language Models | Preprint | [arXiv:2603.04419](https://arxiv.org/abs/2603.04419) |
+| Training Data and the Maladaptive Mind | Preprint | [Research Square](https://doi.org/10.21203/rs.3.rs-8634152/v1) |
+
+### Formal Methods & Political Economy
+
+| Paper | Status | Link |
+|-------|--------|------|
+| The Replicator-Optimization Mechanism: A Scale-Relative Formalism for Persistence-Conditioned Dynamics | Preprint | [arXiv:2601.06363](https://arxiv.org/abs/2601.06363) |
+| The Axiom of Consent: Friction Dynamics in Multi-Agent Coordination | Preprint | [arXiv:2601.06692](https://arxiv.org/abs/2601.06692) |
+| Consent-Theoretic Framework for Quantifying Legitimacy: Stakes, Voice, and Friction in Adversarial Governance | Preprint | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5918222) · [Zenodo](https://doi.org/10.5281/zenodo.17626762) |
+| Autonomous Red Team *(w/ A. Maksakov)* | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.17614725) |
+| Genre Mimicry in Academic Writing | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.17957693) |
+| Quantum Statistics from Oscillatory Sampling | Preprint | [Zenodo](https://doi.org/10.5281/zenodo.18091062) |
 
 ---
 
-<sub>25+ papers | 7 under review or with editor | 4 on arXiv | [dissensus.ai](https://dissensus.ai) | [systems.ac](https://systems.ac)</sub>
+### Tooling & Formalization
+
+[`gjr-garch-x`](https://github.com/studiofarzulla/gjr-garch-x) — GJR-GARCH with exogenous variance regressors ([PyPI](https://pypi.org/project/gjr-garch-x/)) · [`lean-formalizations`](https://github.com/studiofarzulla/lean-formalizations) — machine-checked proofs across 14 papers (Lean 4 + Mathlib)
+
+*Code, agent-based models, and formal proofs accompany most papers. All work published under [ORCID 0009-0002-7164-8704](https://orcid.org/0009-0002-7164-8704).*
