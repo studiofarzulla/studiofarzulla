@@ -5,6 +5,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7164--8704-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-7164-8704)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=bmplqfwAAAAJ)
 [![arXiv](https://img.shields.io/badge/arXiv-farzulla__m__1-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/a/farzulla_m_1)
+[![SSRN](https://img.shields.io/badge/SSRN-Author-1A4480)](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9149212)
 
 Adversarial systems research — stability, alignment, and friction dynamics in complex systems where competing interests generate structural conflict. Each paper is a proof-of-concept for a different application domain: financial markets, political governance, AI alignment, and human development.
 
