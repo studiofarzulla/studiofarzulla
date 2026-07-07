@@ -26,7 +26,7 @@ I work on adversarial systems: coordination friction, systemic risk, multi-agent
 
 | Paper | Status | Link |
 |-------|--------|------|
-| Do Cryptocurrency Markets Differentiate Infrastructure from Regulatory Shocks? A Multi-Moment Event Study with Dependence-Robust Inference | **Under Review** · Digital Finance | [paper](https://dissensus.ai/papers/market-reaction-asymmetry) |
+| Do Cryptocurrency Markets Differentiate Infrastructure from Regulatory Shocks? A Multi-Moment Event Study with Dependence-Robust Inference | **Under Review** · Digital Finance | [arxiv:2602.07046](https://arxiv.org/abs/2602.07046) |
 | The Extremity Premium: Sentiment Regimes and Adverse Selection in Cryptocurrency Markets | **Under Review** · Computational Economics | [arXiv:2602.07018](https://arxiv.org/abs/2602.07018) |
 | Are Whitepaper Claims Reflected in Market Structure? A Contamination-Aware Pipeline and a Power-Limited Null | **Under Review** · Financial Innovation | [arXiv:2601.20336](https://arxiv.org/abs/2601.20336) |
 | The Replicator-Optimization Mechanism: A Scale-Relative Formalism for Persistence-Conditioned Dynamics | Preprint | [arXiv:2601.06363](https://arxiv.org/abs/2601.06363) |
